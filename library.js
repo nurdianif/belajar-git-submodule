@@ -4,3 +4,7 @@ function sayHello(name){
 }
 sayGuest()
 return "hello" + name;
+
+function sayGuest() {
+    console.log("Hello Guest!");
+}

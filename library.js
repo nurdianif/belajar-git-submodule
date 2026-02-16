@@ -2,3 +2,5 @@
 function sayHello(name){
     return "Hello" + name;
 }
+sayGuest()
+return "hello" + name;
